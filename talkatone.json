@@ -1,1 +1,21 @@
-
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "abema-tv.com",
+        "mobilefuse.com",
+        "talkatone.com",
+        "crashlytics.com",
+        "ip-api.com",
+        "agkn.com",
+        "kochava.com",
+        "cohere.com",
+        "tenor.com",
+        "tktn.at",
+        "tktn.be"
+      ],
+       "domain_keyword": "talkatone.com"
+    }
+  ]
+}
