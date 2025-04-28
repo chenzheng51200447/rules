@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "jmsuper.com",
+        "nebula-media.org",
+        "xmsl.org",
+        "emby.moe",
+        "embyplus.org"
+      ]
+    }
+  ]
+}
